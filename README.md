@@ -6,4 +6,4 @@
 - Calculate the scores and display the next pieces.
 - Point out the function of arrow keys. When the arrow key is pressed, it lights up in red.
 - Have sound effects, including movement, landing, rotation, and clear line.
-- Hard drop support.
+- Support hard drop.
